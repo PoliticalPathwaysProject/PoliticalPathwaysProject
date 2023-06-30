@@ -1,0 +1,12 @@
+name: "Political Pathways Project"
+output_dir: "."
+navbar:
+  title: "Political Pathways Project"
+  left:
+    - text: "About"
+      href: index.html
+    - text: "Contact"
+      href: contact.html
+output:
+  html_document:
+    theme: yeti
