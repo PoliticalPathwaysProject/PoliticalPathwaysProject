@@ -2,9 +2,11 @@ name: "Political Pathways Project"
 output_dir: "."
 navbar:
   title: "Political Pathways Project"
-  left:
+  type: inverse
+  right:
     - text: "Home"
       href: index.html
+      icon: fa-home
     - text: "Sign Up"
       href: signup.html
     - text: "About"
