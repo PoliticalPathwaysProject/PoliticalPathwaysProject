@@ -3,10 +3,14 @@ output_dir: "."
 navbar:
   title: "Political Pathways Project"
   left:
-    - text: "About"
+    - text: "Home"
       href: index.html
-    - text: "Contact"
+    - text: "Sign Up"
+      href: signup.html
+    - text: "About"
+      href: about.html
+    - text: "Researchers"
       href: contact.html
 output:
   html_document:
-    theme: yeti
+    css: styles.css

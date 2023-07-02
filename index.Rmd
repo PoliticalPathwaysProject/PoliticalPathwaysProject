@@ -1,5 +1,10 @@
 ---
-title: "Welcome!"
+title: "What is the Political Pathways Project?"
 ---
 
-Test
+- Transparent, appealing, succinct description
+- What we're asking of them
+
+<button class="signup-button" type="button">Sign Up Here</button>
+
+
