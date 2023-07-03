@@ -2,6 +2,12 @@
 title: "What is the Political Pathways Project?"
 ---
 
+<script>
+document.getElementById("signup-button").addEventListener("click", function() {
+  window.location.href = "signup.html";
+});
+</script>
+
 - Transparent, appealing, succinct description
 - What we're asking of them
 

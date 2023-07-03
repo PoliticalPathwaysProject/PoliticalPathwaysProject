@@ -9,10 +9,18 @@ navbar:
       icon: fa-home
     - text: "Sign Up"
       href: signup.html
+      icon: fa-user
     - text: "About"
       href: about.html
-    - text: "Researchers"
+      icon: fa-flag-usa
+    - text: "Contact"
       href: contact.html
+      icon: fa-envelope
 output:
   html_document:
-    css: styles.css
+    css:
+      - styles.css
+      - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css
+
+    
+    

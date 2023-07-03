@@ -61,6 +61,7 @@ if (window.hljs) {
 
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" type="text/css" />
 
 
 
@@ -256,13 +257,25 @@ $(document).ready(function () {
   </a>
 </li>
 <li>
-  <a href="signup.html">Sign Up</a>
+  <a href="signup.html">
+    <span class="fa fa-user"></span>
+     
+    Sign Up
+  </a>
 </li>
 <li>
-  <a href="about.html">About</a>
+  <a href="about.html">
+    <span class="fa fa-flag-usa"></span>
+     
+    About
+  </a>
 </li>
 <li>
-  <a href="contact.html">Researchers</a>
+  <a href="contact.html">
+    <span class="fa fa-envelope"></span>
+     
+    Contact
+  </a>
 </li>
       </ul>
     </div><!--/.nav-collapse -->
@@ -280,11 +293,13 @@ $(document).ready(function () {
 
 <head>
 <style>
-    /* CSS to scale iframe to 80% width of the screen */
+    /* CSS to scale iframe to 80% width of the screen and scale down contents by 75% */
     iframe {
       width: 80vw; /* Set iframe width to 80% of viewport width */
-      height: 60vw; /* Calculate iframe height to maintain aspect ratio */
+      height: calc(60vw * 0.75); /* Calculate iframe height to maintain aspect ratio and scale down by 75% */
       max-width: 100%; /* Limit iframe width to not exceed 100% of parent container */
+      transform: scale(0.75); /* Scale down the contents by 75% */
+      transform-origin: top left; /* Set the origin point of the scaling */
     }
   </style>
 </head>
