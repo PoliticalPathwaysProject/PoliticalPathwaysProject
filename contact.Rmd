@@ -5,17 +5,17 @@ title: "Project Researchers"
 [Carly Wayne](https://artsci.wustl.edu/faculty-staff/carly-wayne)<br>
 Assistant Professor of Political Science<br>
 Washington University in St. Louis<br>
-carlywayne@wustl.edu
+carlywayne\@wustl.edu
 
 [Taylor Carlson](https://polisci.wustl.edu/people/taylor-carlson)<br>
 Assistant Professor of Political Science<br>
 Washington University in St. Louis<br>
-tncarlson@wustl.edu
+tncarlson\@wustl.edu
 
 [Erin Rossiter](https://politicalscience.nd.edu/people/erin-rossiter/)<br>
 Assistant Professor of Political Science<br>
 University of Notre Dame<br>
-erossite@nd.edu
+erossite\@nd.edu
 
 
 

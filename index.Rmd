@@ -1,11 +1,30 @@
 ---
-title: "What is the Political Pathways Project?"
+title: ""
 ---
 
+<!-- <p style="font-size:25pt; font-style:italic"> -->
+<!-- </p> -->
 
-- Transparent, appealing, succinct description
-- What we're asking of them
 
-<!-- <button class="signup-button" type="button" style="color: red;"> -->
-<!--   <a href="signup.html" style="color: white; text-decoration: none;">Sign Up Here</a> -->
-<!-- </button> -->
+
+
+## Many Americans' views are systematically underrepresented in political polling and academic research.
+
+```{r pressure, echo=FALSE, out.width= "35%", out.extra='style="float:right; padding:0 10px 10px 10px"'}
+knitr::include_graphics("https://images.unsplash.com/photo-1515071970049-680dbd2a2339?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80)")
+```
+
+This is especially true for Americans who consider themselves right wing, identify with the alt right, or don't think about their political views on a simple left-right liberal conservative spectrum.
+  
+In the **Political Pathways Project**, we want to paint a more complete picture of political opinions in the United States.  To do so, we are recruiting **people like you** to join our paid research studies.
+
+
+
+
+## Join our email list to participate
+
+Signing up takes less than 1 minute.
+
+<button class="signup-button" type="button" style="color: #B22234;">
+<a href="https://politicalpathwaysproject.com/signup.html" style="color: white;">Sign Up</a>
+</button>

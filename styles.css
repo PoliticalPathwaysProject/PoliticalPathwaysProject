@@ -13,8 +13,12 @@ p {
   margin-bottom: 1em;
 }
 
+a {
+  color: #3C3B6E;
+}
+
 .signup-button {
-  background-color: #c51b29;
+  background-color: #B22234;
   color: #ffffff;
   border: none;
   padding: 10px 20px;
@@ -24,7 +28,7 @@ p {
 }
 
 .signup-button:hover {
-  background-color: #b60013;
+  background-color: #B22234;
 }
 
 /* Additional CSS styles for a patriotic theme */
@@ -39,4 +43,16 @@ p {
   color: #ffffff;
   padding: 20px;
   text-align: center;
+}
+
+.main-container {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cropped-image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
 }

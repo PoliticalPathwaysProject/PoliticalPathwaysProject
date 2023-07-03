@@ -1,21 +1,23 @@
 ---
-title: "Sign Up Here"
+title: ""
 ---
+
+### Follow these instructions to join our email list
 
 <head>
   <style>
     /* CSS to scale iframe to 80% width of the screen and scale down contents by 75% */
     iframe {
-      width: 80vw; /* Set iframe width to 80% of viewport width */
-      height: calc(60vw * 0.75); /* Calculate iframe height to maintain aspect ratio and scale down by 75% */
+      width: 100vw; /* Set iframe width to 80% of viewport width */
+      height: calc(100vw * 0.75); /* Calculate iframe height to maintain aspect ratio and scale down by 75% */
       max-width: 100%; /* Limit iframe width to not exceed 100% of parent container */
-      transform: scale(0.75); /* Scale down the contents by 75% */
+      transform: scale(0.80); /* Scale down the contents by 75% */
       transform-origin: top left; /* Set the origin point of the scaling */
     }
   </style>
 </head>
 
-
+\centering
 
 <iframe src="https://nd.qualtrics.com/jfe/form/SV_37pl39bBCKgTmKi"></iframe>
 
