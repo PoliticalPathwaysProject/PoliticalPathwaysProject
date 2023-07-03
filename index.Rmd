@@ -11,6 +11,6 @@ document.getElementById("signup-button").addEventListener("click", function() {
 - Transparent, appealing, succinct description
 - What we're asking of them
 
-<button class="signup-button" type="button">Sign Up Here</button>
+<button class="signup-button" id="signup-button" type="button">Sign Up Here</button>
 
 
