@@ -6,6 +6,6 @@ title: "What is the Political Pathways Project?"
 - Transparent, appealing, succinct description
 - What we're asking of them
 
-<button class="signup-button" type="button" style="color: red;">
-  <a href="signup.html" style="color: white; text-decoration: none;">Sign Up Here</a>
-</button>
+<!-- <button class="signup-button" type="button" style="color: red;"> -->
+<!--   <a href="signup.html" style="color: white; text-decoration: none;">Sign Up Here</a> -->
+<!-- </button> -->
