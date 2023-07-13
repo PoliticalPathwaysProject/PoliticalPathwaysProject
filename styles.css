@@ -17,6 +17,10 @@ a {
   color: #3C3B6E;
 }
 
+#signup-button {
+  color: white !important; /* Set the color to white */
+}
+
 .signup-button {
   background-color: #B22234;
   color: #ffffff;
@@ -25,11 +29,10 @@ a {
   font-size: 16px;
   border-radius: 5px;
   cursor: pointer;
+  color: white; /* Set the color to white */
 }
 
-.signup-button:hover {
-  background-color: #B22234;
-}
+
 
 /* Additional CSS styles for a patriotic theme */
 .header {
@@ -55,4 +58,42 @@ a {
   width: 200px;
   height: 200px;
   object-fit: cover;
+}
+
+.modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 9999;
+}
+
+.modal-content {
+  background-color: white;
+  padding: 20px;
+  max-width: 500px;
+  max-height: 50vh;
+  overflow-y: auto;
+  border-radius: 5px;
+  position: relative; /* Added position relative */
+}
+
+.modal-footer {
+  position: sticky; /* Added sticky position */
+  bottom: 0;
+  background-color: white;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.modal-footer a {
+  color: #B22234;
+  text-decoration: underline;
+  font-weight: bold; /* Added font-weight */
+  font-size: 24px; /* Adjust font size as needed */
 }

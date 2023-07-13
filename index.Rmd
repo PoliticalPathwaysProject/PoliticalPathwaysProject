@@ -2,8 +2,47 @@
 title: ""
 ---
 
-<!-- <p style="font-size:25pt; font-style:italic"> -->
-<!-- </p> -->
+<head>
+<script>
+$(document).ready(function() {
+  $('#signup-button').click(function() {
+    // Create the modal pop-up
+    $('<div>').attr('id', 'myModal')
+               .addClass('modal')
+               .appendTo('body')
+               .fadeIn();
+
+    // Create the content container
+    $('<div>').addClass('modal-content')
+               .appendTo('.modal');
+
+    // Add the paragraphs of scrollable text
+    $('<p>').text('This consent form describes the research study and helps you decide if you want to participate.  It provides important information about what you will be asked to do during the study, about the risks and benefits of the study, and about your rights and responsibilities as a research participant.').appendTo('.modal-content');
+    $('<p>').text('The first section of this document contains some key points that the research team thought you would find important. The research study is described in more detail after this section.').appendTo('.modal-content');
+    $('<p>').text('This is a research study conducted by Carly Wayne, Taylor Carlson, and Erin Rossiter, having to do with understanding how people develop and change their political views and what influences political views.  We primarily focus on political views that are outside the “mainstream” typically studied by other researchers. You should carefully consider the information in this consent document and discuss it with the research team. Be sure you understand why you might want to participate, or why you might not want to participate. You may choose to participate or not. Before you decide whether to be in this study, you may wish to consider other options that are available to you.  Instead of being in this study, you could choose not to participate.').appendTo('.modal-content');
+        $('<p>').text('If you agree and sign this consent, you will be volunteering to participate in the research study. All of the information below will be explained and is listed in more detail in the consent document below. You can obtain a copy of this consent document by copying and pasting the text to store or print for yourself. You can also email the research team and we can email you a copy.').appendTo('.modal-content');
+                $('<p>').text('If you agree and sign this consent, you will be volunteering to participate in the research study. All of the information below will be explained and is listed in more detail in the consent document below. You can obtain a copy of this consent document by copying and pasting the text to store or print for yourself. You can also email the research team and we can email you a copy.').appendTo('.modal-content');
+                        $('<p>').text('If you agree and sign this consent, you will be volunteering to participate in the research study. All of the information below will be explained and is listed in more detail in the consent document below. You can obtain a copy of this consent document by copying and pasting the text to store or print for yourself. You can also email the research team and we can email you a copy.').appendTo('.modal-content');
+                                $('<p>').text('If you agree and sign this consent, you will be volunteering to participate in the research study. All of the information below will be explained and is listed in more detail in the consent document below. You can obtain a copy of this consent document by copying and pasting the text to store or print for yourself. You can also email the research team and we can email you a copy.').appendTo('.modal-content');
+// Create the footer container
+    $('<div>').addClass('modal-footer')
+               .appendTo('.modal-content');
+
+    // Add the linked text in the footer
+    $('<a>').attr('href', 'https://redcap.wustl.edu/redcap/surveys/?s=KMNMHFHFPMD4LJRH')
+            .text('Click here to sign up')
+            .appendTo('.modal-footer');
+
+    // Close the modal when clicking outside of the content
+    $('.modal').click(function() {
+      $(this).fadeOut(function() {
+        $(this).remove();
+      });
+    });
+  });
+});
+</script>
+</head>
 
 
 
@@ -25,6 +64,6 @@ In the **Political Pathways Project**, we want to paint a more complete picture 
 
 Signing up takes less than 1 minute.
 
-<button class="signup-button" type="button" style="color: #B22234;">
-<a href="https://politicalpathwaysproject.com/signup.html" style="color: white;">Sign Up</a>
+<button id="signup-button" class="signup-button" type="button" style="color: #B22234;">
+Sign Up
 </button>
