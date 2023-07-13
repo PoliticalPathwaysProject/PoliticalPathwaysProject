@@ -2,11 +2,11 @@
 title: "About the Project"
 ---
 
-Welcome to the **Political Pathways Project.** This project is being conducted by Professors Carly Wayne, Taylor Carlson, and Erin Rossiter, and it is supported by the [National Science Foundation](https://www.nsf.gov/).
+Welcome to the **Political Pathways Project.** This project is being conducted by Professors Carly Wayne, Taylor Carlson, and Erin Rossiter, and it is supported by the National Science Foundation.
 
 In this project, we are interested in understanding a wider range of political views in the United States than what is typically represented in academic research, polling, and more.  Too often, researchers overlook nuances in political views, forcing Americans into "boxes," such as "conservative" or "liberal."  We know that political views are much more complex than that.  Academic researchers also often make claims about groups that they know little about because it is easier to overlook groups that are in the minority or people that are hesitant to participate in research.  Many groups go underrepresented in polling and related projects because of this.
 
-In the Political Pathways Project, we want to overcome this trend.  To do so, we are recruiting people like you to join our study, rather than rely on big survey companies that survey the same kinds of people.  The group we recruit will help us paint a complete picture of political opinions in the United States. 
+In the Political Pathways Project, we want to overcome this trend.  To do so, we are recruiting people like you to join our study, rather than relying on big survey companies that survey the same kinds of people.  The group we recruit will help us paint a complete picture of political opinions in the United States. 
 
 One of our main goals with the Political Pathways Project is to understand how people develop their political views, especially when the views go against the establishment or are not "mainstream." We are researchers, so our goal is **not** to change anyone's opinions, but rather we are interested in how people develop their views, talk about them with others, and how their views might change over time. Your participation in the Political Pathways Project will help us have a more accurate understanding of the full landscape of political views in the U.S., instead of overemphasizing mainstream views. 
 
@@ -18,6 +18,6 @@ Signing up for our email list takes less than one minute.  Then what can you exp
 - You can unsubscribe at anytime
 - You will receive a handful of emails over the next year
 - Each email will invite you to participate in a survey about your political views
-- Each survey you take = an entry for **\$100-\$500 dollar Amazon giftcards**
+- Each survey you choose to take = an entry for **\$100-\$500 dollar gift cards**
 
 If you are interested in participating in our research project, please check out our [signup page here](signup.html). 
