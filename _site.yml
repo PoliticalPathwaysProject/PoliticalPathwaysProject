@@ -7,9 +7,6 @@ navbar:
     - text: "Home"
       href: index.html
       icon: fa-home
-    - text: "Sign Up"
-      href: signup.html
-      icon: fa-user
     - text: "About"
       href: about.html
       icon: fa-flag-usa
