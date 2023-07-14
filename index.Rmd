@@ -112,7 +112,7 @@ $(document).ready(function() {
 
     // Add the linked text in the footer
     $('<a>').attr('href', 'https://redcap.wustl.edu/redcap/surveys/?s=KMNMHFHFPMD4LJRH')
-            .text('Click here to sign up')
+            .text('I consent. Continue to signup.')
             .appendTo('.modal-footer');
 
     // Close the modal when clicking outside of the content
@@ -135,7 +135,7 @@ $(document).ready(function() {
 knitr::include_graphics("https://images.unsplash.com/photo-1515071970049-680dbd2a2339?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80)")
 ```
 
-This is especially true for Americans who consider themselves right wing, identify with the alt right, or don't think about their political views on a simple left-right liberal-conservative spectrum.
+This is especially true for Americans who consider themselves right wing, identify with the alt right, or don't think about their political views on a simple left-right, liberal-conservative spectrum.
   
 In the **Political Pathways Project**, we want to paint a more complete picture of political opinions in the United States.  To do so, we are recruiting **people like you** to join our paid research studies.
 
