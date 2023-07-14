@@ -20,4 +20,4 @@ Signing up for our email list takes less than one minute.  Then what can you exp
 - Each email will invite you to participate in a survey about your political views
 - Each survey you choose to take = an entry for **\$100-\$500 dollar gift cards**
 
-If you are interested in participating in our research project, please check out our [signup page here](signup.html). 
+If you are interested in participating in our research project, please [signup here](index.html). 
